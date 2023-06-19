@@ -1,7 +1,7 @@
 # Image_stack_to_video
 A set of scripts to convert an image stack to video and provide text labelling. 
 
-<b>This script was developed in the following environment:</b>
+<b>These scripts were developed in the following environment:</b>
 
 Python 3.9.7
 
